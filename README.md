@@ -77,7 +77,7 @@ Skroll litt på bunnen for å finne trollmannen, han koster 320 penger og ser s�
 Nå skal vi gjøre trollmannen enda bedre enn han allerede er. Det kan du gjøre ved å trykke på trollmannen på kartet. Da får du opp en meny på siden.\
 <img width="311" alt="image" src="https://github.com/Elvinos33/bloons-tutorial/assets/83819889/85331e18-d2a5-4c12-b1fb-2393c4a64bdb">
 
-I denne menyen er det 3 rader med knapper. Det er det som kalles "stier". Disse stiene inneholder forskjellige oppgraderinger. Man kan bare velge to stier om gangen per karakter. Men når man velger 2 stier, kan den ene bare oppgraderes 2 ganger, mens den andre kan oppgraderes til full. Så man må tenke litt på hvilken sti man vil fokusere på!
+I denne menyen er det 3 rader med knapper. Det er det som kalles "stier". Disse stiene inneholder forskjellige oppgraderinger og hvor mye oppgraderingene koster. Man kan bare velge to stier om gangen per karakter. Men når man velger 2 stier, kan den ene bare oppgraderes 2 ganger, mens den andre kan oppgraderes til full. Så man må tenke litt på hvilken sti man vil fokusere på!
 
 En måte man kan lett vise hvilke oppgraderinger man skal ha er å bruke tall. Måten man viser dette på er å ha 3 tall som representerer hver sti og hvor mange ganger man skal oppgradere hver sti. Eks: "0 4 2" for 0 ganger på toppen, 4 ganger i midten og 2 ganger på bunn. Om du glemmer hvor mange ganger du har oppgrader hver sti, kan du bare se på de grønne klossene ved siden av oppgraderingene på hver sti.
 
