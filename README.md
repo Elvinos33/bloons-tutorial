@@ -79,9 +79,20 @@ Nå skal vi gjøre trollmannen enda bedre enn han allerede er. Det kan du gjøre
 
 I denne menyen er det 3 rader med knapper. Det er det som kalles "stier". Disse stiene inneholder forskjellige oppgraderinger. Man kan bare velge to stier om gangen per karakter. Men når man velger 2 stier, kan den ene bare oppgraderes 2 ganger, mens den andre kan oppgraderes til full. Så man må tenke litt på hvilken sti man vil fokusere på!
 
-En måte man kan lett vise hvilke oppgraderinger man skal ha er å bruke tall. Måten man viser dette på er å ha 3 tall som representerer hver sti og hvor mange ganger man skal oppgradere hver sti. Eks: "0 4 2" for 0 ganger på toppen, 4 ganger i midten og 2 ganger på bunn.
+En måte man kan lett vise hvilke oppgraderinger man skal ha er å bruke tall. Måten man viser dette på er å ha 3 tall som representerer hver sti og hvor mange ganger man skal oppgradere hver sti. Eks: "0 4 2" for 0 ganger på toppen, 4 ganger i midten og 2 ganger på bunn. Om du glemmer hvor mange ganger du har oppgrader hver sti, kan du bare se på de grønne klossene ved siden av oppgraderingene på hver sti.
 
-I vårt tilefelle skal vi oppgradere trollmannen til 0 3 2. Altså 0 på topp, 3 i midten og 2 på bunn. Då får vi en kul flamme-trollmann!
+I vårt tilefelle skal vi oppgradere trollmannen til 0 3 2. Altså 0 på topp, 3 i midten og 2 på bunn. Då får vi en kul flamme-trollmann! Det er opp til deg hvilken av stiene du oppgraderer først.
+
+##### Så nå er det egentlig opp til deg å oppgradere trollmannen til det nivået. Bare fortsett helt til du får nok penger til å oppgradere!
+
+## 🏁Winner Winner, Chicken Dinner!
+Nå skal du ha klart å oppgradere trollmannen til 0 3 2. Da skal han være litt rød og kul.
+
+Nå er du egentlig ferdig med alt som skal gjøres. Nå er det egentlig bare å slappe av å se deg selv vinne.
+
+Men det er sikkert litt slitsomt å trykke start hver gang. For å gjøre det automatisk kan du trykke på tannhjulet oppe i venstre og skru på "automatisk start" for at den fortsetter rundene for deg.
+
+#### Lykke til videre på din Bloons reise!🍀
 
 
 
