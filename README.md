@@ -86,11 +86,20 @@ I vårt tilefelle skal vi oppgradere trollmannen til 0 3 2. Altså 0 på topp, 3
 ##### Så nå er det egentlig opp til deg å oppgradere trollmannen til det nivået. Bare fortsett helt til du får nok penger til å oppgradere!
 
 ## 🏁Winner Winner, Chicken Dinner!
-Nå skal du ha klart å oppgradere trollmannen til 0 3 2. Da skal han være litt rød og kul.
+Nå skal du ha klart å oppgradere trollmannen til 0 3 2. Da skal han være litt rød og kul.\
+<img width="312" alt="image" src="https://github.com/Elvinos33/bloons-tutorial/assets/83819889/73e057a6-2913-4b05-a413-76ce0701bb1f">
 
-Nå er du egentlig ferdig med alt som skal gjøres. Nå er det egentlig bare å slappe av å se deg selv vinne.
 
-Men det er sikkert litt slitsomt å trykke start hver gang. For å gjøre det automatisk kan du trykke på tannhjulet oppe i venstre og skru på "automatisk start" for at den fortsetter rundene for deg.
+Nå er du egentlig ferdig med alt som skal gjøres! Nå er det egentlig bare å slappe av å se deg selv vinne.
+
+Men det er sikkert litt slitsomt å trykke start hver gang. For å gjøre det automatisk kan du trykke på tannhjulet oppe i venstre og skru på "automatisk start" for at den fortsetter rundene for deg.\
+<img width="500" alt="image" src="https://github.com/Elvinos33/bloons-tutorial/assets/83819889/5bd077c9-942c-43ef-91bd-bdcdc0cbf521">
+
+Når du har klart runde 40 skal får du opp denne skjermen:
+<img width="800" alt="image" src="https://github.com/Elvinos33/bloons-tutorial/assets/83819889/52007e98-6b86-4bb0-8f52-a2a559f74ccb">
+
+
+#### Da har du vunnet ditt første Bloons spill. Gratulerer! 🥳
 
 #### Lykke til videre på din Bloons reise!🍀
 
