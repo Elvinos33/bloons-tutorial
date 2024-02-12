@@ -49,7 +49,7 @@ Her er det også en lynknapp, den er for spesielle krefter. Det går vi ikke i d
 <img width="800" alt="image" src="https://github.com/Elvinos33/bloons-tutorial/assets/83819889/54b3dbe0-3354-4f4e-896c-109c46936f1f">
 
 ## Hvordan starter jeg?
-Det første du gjør er å klikke på den apen med gul bakgrunn på bunnen. Han heter Etienne og er veldig kul.😎 Når du har klikket på han så kan du bevege musen ut på kartet igjen, han skal nå følge musen din helt til du legger han ned igjen. Du kan også se en grå sirkel rundt han, det er hvor langt han kan se. Altså alle ballongene innenfor den rekkevidden vil kunne bli sprekket av Etienne. 
+Det første du gjør er å klikke på den apen med gul bakgrunn på bunnen. Han heter Etienne og er veldig kul.😎 Når du har klikket på han så kan du bevege musen ut på kartet igjen, han skal nå følge musen din helt til du legger han ned igjen. Du kan også se en grå sirkel rundt han, det er hvor langt han kan se. Altså alle ballongene innenfor den rekkevidden vil kunne bli sprukket av Etienne. 
 
 For å plassere han ned klikker man bare. 
 
@@ -92,7 +92,7 @@ Nå skal du ha klart å oppgradere trollmannen til 0 3 2. Da skal han være litt
 
 Nå er du egentlig ferdig med alt som skal gjøres! Nå er det egentlig bare å slappe av å se deg selv vinne.
 
-Men det er sikkert litt slitsomt å trykke start hver gang. For å gjøre det automatisk kan du trykke på tannhjulet oppe i venstre og skru på "automatisk start" for at den fortsetter rundene for deg.\
+Men det er sikkert litt slitsomt å trykke start hver gang. For å gjøre det automatisk kan du trykke på tannhjulet oppe i høyre og skru på "automatisk start" for at den fortsetter rundene for deg.\
 <img width="500" alt="image" src="https://github.com/Elvinos33/bloons-tutorial/assets/83819889/5bd077c9-942c-43ef-91bd-bdcdc0cbf521">
 
 Når du har klart runde 40 skal får du opp denne skjermen:
